@@ -4,6 +4,7 @@ package testPackage;
  * @author tkall
  *@version 1.0
  *this refers to the current object
+ * **Practicing Merge**
  */
 public class This {
 // Ensure that defined variables are made private 	
